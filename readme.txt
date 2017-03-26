@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 github test.
 Creating a new brach is quick.
-Creating a new branch is quick & simple.
+Creating a new brach is quick and simple.
